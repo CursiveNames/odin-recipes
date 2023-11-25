@@ -1,0 +1,89 @@
+/*
+#header,
+.subtitles {
+    font-family: Helvetica, sans-serif;
+}
+
+.subtitles,
+.subtitles.secondary,
+.descriptor {
+    font-family:system-ui, -apple-system, Helvetica;
+}
+
+.recipe-steps li {
+    font-family:system-ui, -apple-system, Helvetica;
+}
+
+
+#header {
+    font-size: 60px;
+}
+
+#banner-picture {
+    height: auto;
+    width: 590px;
+}
+
+#ingredients {
+    font-family: cursive;
+}
+
+
+.subtitles {
+    font-size: 20px;
+}
+
+.subtitles.secondary {
+    font-size: 15px;
+    
+}
+
+.descriptor {
+    font-size: 15px;
+}
+
+*/
+
+/* ------------------------------------------------------------------------------------------------- */
+
+
+/* ------------------------------------------------------------------------------------------- */
+
+/* .paragraph,
+
+
+.steps .recipe.steps li {
+    padding: 1mm;
+    line-height: 7.5mm;
+    font-weight: 600;
+}
+
+.recipe.steps {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Helvetica, system-ui;
+}
+
+.paragraph {
+    font-family:Helvetica, system-ui;
+} */
+
+
+/* ------------------------------------------------------------------------------------------- */
+
+/* .ingredients.list {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    font-size: 20px;
+    padding-bottom: 0.111cm;
+}
+
+.title {
+    font-size: 50px;
+    font-family: system-ui, -apple-system;
+    font-weight: 800px;
+}
+
+
+.italic {
+    font-style: italic;
+} */
