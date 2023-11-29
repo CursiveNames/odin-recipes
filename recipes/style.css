@@ -1,32 +1,43 @@
 #background {
-    background-color: white;
+    background-color: bisque;
 }
-/* ------------------------------------------------------------------------------------------- */
-#title {
-    font-size: 70px;
+
+.image-container #banner {
+    border-radius: 5px;
+    background-size: 3px;
+}
+
+.author,
+.steps,
+.introduction,
+.ingredients,
+.paragraph,
+.sub-title {
+    font-family: system-ui, Helvetica, Arial;
+}
+
+.main-title {
+    font-size: 100px;
     font-weight: 800;
     font-family: system-ui, -apple-system;
+    background-color: white;
     /* -webkit-text-fill-color: beige;
     -webkit-text-stroke: 1px;
     -webkit-text-stroke-color: black; */
 }
 
+.main-title .sub-title {
+    font-size: 50px;
+    font-weight: 400;
+}
 
-.sub#title {
+.sub-title {
     font-size: 30px;
-    font-weight: 900px;
+    font-weight: 750;
 }
 
-/* ------------------------------------------------------------------------------------------- */
-
-#banner {
-    height: auto;
-    width: 750px;
+.author {
+    font-size: 20px;
+    font-weight: 200;
+    padding-left: 1mm;
 }
-
-.steps,
-.introduction,
-.ingredients {
-    font-family: system-ui, Helvetica;
-}
-
