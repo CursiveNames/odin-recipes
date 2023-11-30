@@ -1,43 +1,53 @@
-#background {
-    background-color: bisque;
-}
-
-.image-container #banner {
-    border-radius: 5px;
-    background-size: 3px;
-}
-
-.author,
-.steps,
-.introduction,
-.ingredients,
-.paragraph,
-.sub-title {
+*{
     font-family: system-ui, Helvetica, Arial;
 }
 
+#background {
+    background-color: bisque;     
+    border-color: blueviolet;
+}
+
+#below-title-body-box {
+    width: 750px;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.image #image-header #banner{
+    border-radius: 5px;
+    width: 750px;
+    height: auto;
+}
+/* _______________Background / Images___________________ */
 .main-title {
     font-size: 100px;
     font-weight: 800;
-    font-family: system-ui, -apple-system;
-    background-color: white;
     /* -webkit-text-fill-color: beige;
     -webkit-text-stroke: 1px;
     -webkit-text-stroke-color: black; */
 }
 
 .main-title .sub-title {
-    font-size: 50px;
+    font-size: 75px;
     font-weight: 400;
+    padding-left: 0cm;
+}
+
+.author {
+    font-size: 25px;
+    font-weight: 200;
+    padding-left: 1mm;
 }
 
 .sub-title {
     font-size: 30px;
     font-weight: 750;
+    padding-left: 5px;
 }
+/* ________________Main Title / subtitle________________ */
 
-.author {
-    font-size: 20px;
-    font-weight: 200;
-    padding-left: 1mm;
+.list li {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }

@@ -1,0 +1,37 @@
+* {
+    font-family: Helvetica, system-ui;
+}
+
+#background {
+    background-color: bisque;
+}
+
+.title .sub-title {
+    font-size: 75px;
+    font-weight: 500;
+    
+}
+
+.title{
+    font-weight: 900;
+    font-size: 100px;
+}
+
+.horizontal-line {
+    height: 5px;
+    padding-right: 1cm;
+    padding-left: 1cm;
+    background-color: black;
+}
+
+.recipe-hyperlink {
+    width: 700px;
+    height: 450px;
+    border-radius: 10%;
+}
+
+.hyperlink-container {
+    background-color: white;
+    height: auto;
+
+}
